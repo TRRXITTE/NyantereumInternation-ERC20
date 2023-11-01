@@ -22,6 +22,7 @@ https://trezor.io/
 https://metamask.io/   
 https://www.myetherwallet.com/  
 https://mycrypto.com/  
+https://trustwallet.com  
 
 Github:  
 https://github.com/TRRXITTE/NyantereumInternational
@@ -34,4 +35,4 @@ https://t.me/nyantereum
 https://discord.com/invite/gkNJACF  
 
 Whitepaper:
-https://nyantereum.com/whitepaper.html 
+https://nyantereum.com/whitepaper.pdf 
